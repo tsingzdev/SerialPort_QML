@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>source/DisplayView.qml</file>
+        <file>source/SettingView.qml</file>
+        <file>source/VersionPage.qml</file>
+        <file>image/logo.png</file>
+        <file>image/serialportlogo.png</file>
+    </qresource>
+</RCC>
